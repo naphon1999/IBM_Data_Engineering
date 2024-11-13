@@ -1,9 +1,9 @@
 # IBM_Data_Engineering
 - Python & SQL
 - Relational Databases(RDBMs)
+- MySQL & PostgreSQL
 - Linux & Shell script
 - Apache Hive
-- MySQL & PostgreSQL
 - Web scraping
 - ETL / ELT
 - Data Pipelines
