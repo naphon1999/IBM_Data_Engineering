@@ -5,7 +5,7 @@
 - MySQL & PostgreSQL
 - ETL / ELT
 - Data Pipelines
-- Apache Airflow & Kafka
+- Apache Airflow & Kafka & Hive
 - Data Warehouse
 - NoSQL
 - MongoDB & Cassandra
