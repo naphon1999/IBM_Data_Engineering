@@ -2,10 +2,11 @@
 - Python & SQL
 - Relational Databases(RDBMs)
 - Linux & Shell script
+- Apache Hive
 - MySQL & PostgreSQL
 - ETL / ELT
 - Data Pipelines
-- Apache Airflow & Kafka & Hive
+- Apache Airflow & Kafka
 - Data Warehouse
 - NoSQL
 - MongoDB & Cassandra
