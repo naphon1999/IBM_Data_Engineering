@@ -15,4 +15,4 @@
 - Apache Spark & Hadoop
 - Machine Learning
 
-![One Piece](https://i.redd.it/nbb5zwy5o1b21.jpg)
+![One Piece](https://static.wikia.nocookie.net/onepiece/images/2/29/Battle_Franky_9.png/revision/latest?cb=20161221104323)
