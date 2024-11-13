@@ -15,4 +15,4 @@
 - Apache Spark & Hadoop
 - Machine Learning
 
-![One Piece](https://wallpapers-clan.com/wp-content/uploads/2024/06/one-piece-franky-mighty-summer-warrior-desktop-wallpaper-preview.jpg)
+![One Piece](https://i.redd.it/nbb5zwy5o1b21.jpg)
