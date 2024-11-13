@@ -7,9 +7,9 @@
 - ETL / ELT
 - Data Pipelines
 - Apache Airflow & Kafka
-- Data Warehouse
 - NoSQL
 - MongoDB & Cassandra
+- Data Warehouse
 - BigData
 - Apache Spark & Hadoop
 - Machine Learning
