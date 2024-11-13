@@ -4,6 +4,7 @@
 - Linux & Shell script
 - Apache Hive
 - MySQL & PostgreSQL
+- Web scraping
 - ETL / ELT
 - Data Pipelines
 - Apache Airflow & Kafka
